@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/StarterContent/Materials/LandScape_Mat.uasset",
+				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/Untitled.umap",
+				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/Landscape_Content/Grass_LayerInfo.uasset",
+				"F:/Unreal_Projects/Tarain_Painting/Landscaping/LandScaping/Content/Landscape_Content/Sand_LayerInfo.uasset"
 			]
 		}
 	]
